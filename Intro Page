@@ -1,0 +1,29 @@
+<!DOCTYTPE html>
+<head>
+<title>Covid-19</title>
+</head>
+<body background="data:image/jpeg;base64,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">
+<header>
+
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="4">
+<tr>
+<td><a href="file:///C:/Users/Admin/Desktop/a.html" style="color: white">ABOUT</a><i></TD><br>
+<td><a href="file:///C:/Users/Admin/Desktop/a2%20correct.html" style="color: white">TREATMENT AND ADVICE</a><i></TD><br>
+<td><a href="file:///C:/Users/Admin/Desktop/a4.html" style="color: white">VARIENTS & VACCINES OF CORONA</a><i></TD><br>
+<td><a href="file:///C:/Users/Admin/Desktop/a3.html" style="color: white">COVID 19 VACCINATION FORM</a><i></TD><br>
+</tr>
+</nav>
+</table>
+<center><h1 style="background-color:white"><font size="+20">CORONA</h1></font>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPpCAq6NrKcMUOv5QlnqCp6ToMBEb4NFyiQ&usqp=CAU" width="800" height="200">
+<center><h1 style="background-color:white"><font size="+20">What is COVID-19?</h1><br></font>
+<p style="background-color:white"><font size="+2">It is the largest category for an RNA virus. In most cases, it is difficult to detect if coronavirus or a different cold-causing virus is causing you fever.
+
+Known as  COVID-19 , the newly identified coronavirus can cause pneumonia, and like other respiratory infections, it has an incubation of between 1 and 14 days.</p>
+</body>
+
+
+
