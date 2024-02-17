@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>covid 19 vaccination form</title>
+
+<center><h1 style="color:white"><font size="+20">Covid 19 Vaccination Form</h1></font></center>
+
+<!-- CSS -->
+<style>
+</style>
+
+</head>
+
+<body>
+<style>
+body{
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNbbkW1CMnhI7emLP_SaSK80VSfZ8O8VyeWw&usqp=CAU");
+</style>
+
+<form class="myForm" method="get" enctype="application/x-www-form-urlencoded" action="/html/codes/html_form_handler.cfm">
+<hr size="4" width="100%" color="white">
+<p STYLE="color:white">
+<label>Name
+<input type="text" name="customer_name" required>
+</label> 
+</p>
+
+<p STYLE="color:white">
+<label>Phone 
+<input type="tel" name="phone_number">
+</label>
+</p>
+
+<p STYLE="color:white">
+<label>Email 
+<input type="email" name="email_address">
+</label>
+</p>
+<p STYLE="color:white">
+<label>Aadhaar Number
+<input type="text" name="dropoff_place">
+</label>
+<hr size="3" width="100%" color="black">
+
+<fieldset>
+<legend STYLE="color:white">Have you previously received a COVID-19 vaccine dose? </legend>
+<p STYLE="color:white"><label class="choice"> <input type="radio" name="taxi" required value="car">First Dose </label></p>
+<p STYLE="color:white"><label class="choice"> <input type="radio" name="taxi" required value="van">Second Dose </label></p>
+</fieldset>
+
+<fieldset>
+<legend>GENDER</legend>
+<p STYLE="color:white"><label class="choice"> <input type="radio" name="extras" value="baby"> Male </label></p>
+<p STYLE="color:white"><label class="choice"> <input type="radio" name="extras" value="wheelchair">Female </label></p>
+<p STYLE="color:white"><label class="choice"> <input type="radio" name="extras" value="tip">Other </label></p>
+</fieldset>
+<hr size="3" width="100%" color="white">
+
+<p STYLE="color:white">
+<label>Date OF Birth
+<input type="Date" name="pickup_time" required>
+</label>
+
+</p>
+<p STYLE="color:white">
+<label>State
+<input type="text" name="dropoff_place">
+</label>
+
+
+
+
+<datalist id="destinations">
+<option value="Airport">
+<option value="Beach">
+<option value="Fred Flinstone's House">
+</datalist>
+</p>
+
+<p STYLE="color:white">
+<label>Special Instructions(Any Health Related Issues)
+<textarea name="comments" maxlength="500"></textarea>
+</label>
+</p>
+<p STYLE="color:white">
+<label>(Long Term Disease)
+<textarea name="comments" maxlength="500"></textarea>
+</label>
+</p>
+
+<p STYLE="color:white"><button>Submit Booking</button></p>
+<hr size="4" width="100%" color="black">
+
+</form>
+
+</body>
+</html>
